@@ -1,0 +1,11 @@
+pandas
+numpy
+#pytz
+sqlalchemy
+elasticsearch==7.13.2
+smbprotocol
+#pymysql
+psycopg2
+requests
+paho-mqtt
+python-dotenv
